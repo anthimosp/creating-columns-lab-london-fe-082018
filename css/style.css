@@ -47,11 +47,12 @@ img:hover {
 }
 
 .column {
-  
+  width: 50%;
 }
 
 .small {
-  
+  width:;
+  height:;
 }
 
 .medium {
